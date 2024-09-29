@@ -1,0 +1,300 @@
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/appsettings.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/CinemaCalc.API
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/CinemaCalc.API.deps.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/CinemaCalc.API.runtimeconfig.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/CinemaCalc.API.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/CinemaCalc.API.pdb
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Npgsql.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.csproj.AssemblyReference.cache
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.AssemblyInfoInputs.cache
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.AssemblyInfo.cs
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.csproj.CoreCompileInputs.cache
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets/msbuild.CinemaCalc.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets/msbuild.build.CinemaCalc.API.props
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CinemaCalc.API.props
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CinemaCalc.API.props
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/scopedcss/bundle/CinemaCalc.API.styles.css
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCa.16549109.Up2Date
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/refint/CinemaCalc.API.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.pdb
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/CinemaCalc.API.genruntimeconfig.cache
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/obj/Debug/net8.0/ref/CinemaCalc.API.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/global.json
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Humanizer.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emblemdevice/RiderProjects/CinemaCalc.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\appsettings.Development.json
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\appsettings.json
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\global.json
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.exe
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.deps.json
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.runtimeconfig.json
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.pdb
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Humanizer.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Npgsql.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.csproj.AssemblyReference.cache
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.AssemblyInfoInputs.cache
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.AssemblyInfo.cs
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.csproj.CoreCompileInputs.cache
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.CinemaCalc.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CinemaCalc.API.props
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CinemaCalc.API.props
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CinemaCalc.API.props
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\scopedcss\bundle\CinemaCalc.API.styles.css
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCa.16549109.Up2Date
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\refint\CinemaCalc.API.dll
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.pdb
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.genruntimeconfig.cache
+D:\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\ref\CinemaCalc.API.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\appsettings.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\global.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.exe
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.deps.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.runtimeconfig.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\CinemaCalc.API.pdb
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.csproj.AssemblyReference.cache
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.AssemblyInfoInputs.cache
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.AssemblyInfo.cs
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.csproj.CoreCompileInputs.cache
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.CinemaCalc.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CinemaCalc.API.props
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CinemaCalc.API.props
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CinemaCalc.API.props
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\scopedcss\bundle\CinemaCalc.API.styles.css
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCa.16549109.Up2Date
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\refint\CinemaCalc.API.dll
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.pdb
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\CinemaCalc.API.genruntimeconfig.cache
+C:\Users\4 Brother\Downloads\CinemaCalc.API 1\CinemaCalc.API\obj\Debug\net8.0\ref\CinemaCalc.API.dll
