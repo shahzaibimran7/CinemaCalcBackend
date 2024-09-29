@@ -46,7 +46,7 @@ These instructions will help you set up and run the project on your local machin
 
 ## Usage
 
-Once the application is running, you can access the API at `http://localhost:5000/api/Expenses`.
+Once the application is running, you can access the API at `http://localhost:5084/api/Expenses`.
 
 ## API Endpoints
 
